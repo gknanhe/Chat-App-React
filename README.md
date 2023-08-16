@@ -2,7 +2,7 @@
 
 This project is a front end for a chat application built with React. The application enables users to create conversations, search for contacts, send messages within conversations, and handle alerts. The project uses dummy data from a JSON file for demonstration purposes.
 
-
+## Hosted Link (https://gregarious-nougat-92f7d8.netlify.app/)
 
 ## Functionality
 
